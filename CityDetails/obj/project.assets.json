@@ -11913,11 +11913,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vaibhav\\source\\repos\\CityDetails\\CityDetails\\CityDetails.csproj",
+      "projectUniqueName": "C:\\Users\\Vaibhav\\Source\\Repos\\ASP.NEt-Core-Cities-Web-API\\CityDetails\\CityDetails.csproj",
       "projectName": "CityDetails",
-      "projectPath": "C:\\Users\\Vaibhav\\source\\repos\\CityDetails\\CityDetails\\CityDetails.csproj",
+      "projectPath": "C:\\Users\\Vaibhav\\Source\\Repos\\ASP.NEt-Core-Cities-Web-API\\CityDetails\\CityDetails.csproj",
       "packagesPath": "C:\\Users\\Vaibhav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vaibhav\\source\\repos\\CityDetails\\CityDetails\\obj\\",
+      "outputPath": "C:\\Users\\Vaibhav\\Source\\Repos\\ASP.NEt-Core-Cities-Web-API\\CityDetails\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

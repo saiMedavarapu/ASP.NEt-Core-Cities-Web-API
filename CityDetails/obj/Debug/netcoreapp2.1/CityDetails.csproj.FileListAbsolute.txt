@@ -12,3 +12,17 @@ C:\Users\Vaibhav\source\repos\CityDetails\CityDetails\obj\Debug\netcoreapp2.1\Ci
 C:\Users\Vaibhav\source\repos\CityDetails\CityDetails\obj\Debug\netcoreapp2.1\CityDetails.dll
 C:\Users\Vaibhav\source\repos\CityDetails\CityDetails\obj\Debug\netcoreapp2.1\CityDetails.pdb
 C:\Users\Vaibhav\source\repos\CityDetails\CityDetails\obj\Debug\netcoreapp2.1\CityDetails.csprojAssemblyReference.cache
+C:\Users\Vaibhav\Source\Repos\ASP.NEt-Core-Cities-Web-API\CityDetails\bin\Debug\netcoreapp2.1\CityDetails.deps.json
+C:\Users\Vaibhav\Source\Repos\ASP.NEt-Core-Cities-Web-API\CityDetails\bin\Debug\netcoreapp2.1\CityDetails.runtimeconfig.json
+C:\Users\Vaibhav\Source\Repos\ASP.NEt-Core-Cities-Web-API\CityDetails\bin\Debug\netcoreapp2.1\CityDetails.runtimeconfig.dev.json
+C:\Users\Vaibhav\Source\Repos\ASP.NEt-Core-Cities-Web-API\CityDetails\bin\Debug\netcoreapp2.1\CityDetails.dll
+C:\Users\Vaibhav\Source\Repos\ASP.NEt-Core-Cities-Web-API\CityDetails\bin\Debug\netcoreapp2.1\CityDetails.pdb
+C:\Users\Vaibhav\Source\Repos\ASP.NEt-Core-Cities-Web-API\CityDetails\obj\Debug\netcoreapp2.1\CityDetails.csprojAssemblyReference.cache
+C:\Users\Vaibhav\Source\Repos\ASP.NEt-Core-Cities-Web-API\CityDetails\obj\Debug\netcoreapp2.1\CityDetails.csproj.CoreCompileInputs.cache
+C:\Users\Vaibhav\Source\Repos\ASP.NEt-Core-Cities-Web-API\CityDetails\obj\Debug\netcoreapp2.1\CityDetails.RazorAssemblyInfo.cache
+C:\Users\Vaibhav\Source\Repos\ASP.NEt-Core-Cities-Web-API\CityDetails\obj\Debug\netcoreapp2.1\CityDetails.RazorAssemblyInfo.cs
+C:\Users\Vaibhav\Source\Repos\ASP.NEt-Core-Cities-Web-API\CityDetails\obj\Debug\netcoreapp2.1\CityDetails.AssemblyInfoInputs.cache
+C:\Users\Vaibhav\Source\Repos\ASP.NEt-Core-Cities-Web-API\CityDetails\obj\Debug\netcoreapp2.1\CityDetails.AssemblyInfo.cs
+C:\Users\Vaibhav\Source\Repos\ASP.NEt-Core-Cities-Web-API\CityDetails\obj\Debug\netcoreapp2.1\CityDetails.RazorTargetAssemblyInfo.cache
+C:\Users\Vaibhav\Source\Repos\ASP.NEt-Core-Cities-Web-API\CityDetails\obj\Debug\netcoreapp2.1\CityDetails.dll
+C:\Users\Vaibhav\Source\Repos\ASP.NEt-Core-Cities-Web-API\CityDetails\obj\Debug\netcoreapp2.1\CityDetails.pdb
