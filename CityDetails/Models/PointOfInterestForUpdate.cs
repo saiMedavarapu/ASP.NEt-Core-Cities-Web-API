@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CityDetails.Models
 {
-    public class PointOfInterestForCreationDto
+    public class PointOfInterestForUpdate
     {
         [Required(ErrorMessage = "You should enter a name value")]
         [MaxLength(50)]
